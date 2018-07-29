@@ -1,0 +1,19 @@
+html, body {
+    width: 100%;
+    margin: 20px;
+}
+.progressbar {
+    width: 100%;
+    background-color: grey;
+    margin: 10px;
+}
+
+.indicator {
+    width: 0%;
+    height: 30px;
+    background-color: green;
+}
+
+ul {
+    width: 50%;
+}
